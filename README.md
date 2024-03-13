@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Kishore Kumar Bhupuram</h1>
-<h3 align="center">A passionate Full Stack Java Developer</h3>
+<h1 align="center">Hi 👋, I am Kesava Boya</h1>
+<h3 align="center">A passionate Java Developer </h3>
 <img align="right" alt="Coding" width="350" height="500" src="IMG20230322101310.jpg">
 
-<p align="left">   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-51.Kishore-51&"  /></p>
+<p align="left">   <img src="https://visitor-badge.laobi.icu/badge?page_id=kes18.kes18&"  /></p>
 
 
-- 📚 I'm currently learning *Full Stack Java Development*
+- 📚 I'm currently learning  Java Development 
 - 💬 Ask me about *Java,SpringBoot,OracleSQL*
 - ⚡ In my free time I make my self better with new trande technology
-- 📫 How to reach me *kishorekish5r@gmail.com*
-- ✅ Check all my work <a href="https://github.com/Kishore-51">*here*</a>
+- 📫 How to reach me *keshk745gmail.com*
+- ✅ Check all my work <a href="https://github.com/kes18">*here*</a>
 
 ###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/kishorekumar5" target="_blank">
+  <a href="https://www.linkedin.com/in/kesava-boya-455439255/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://www.hackerrank.com/profile/thedeadchest" target="_blank">
+  <a href="https://www.hackerrank.com/profile/keshk745" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="kishorekish5r@gmail.com" target="_blank">
+  <a href="keshk745@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -61,7 +61,7 @@
 ###
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore-51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kes18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -70,13 +70,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishore-51&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kes18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Kishore-51/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kes18/count.svg?"  />
 </div>
 
 ###
