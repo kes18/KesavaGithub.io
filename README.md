@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Kesava Boya</h1>
 <h3 align="center">A passionate Java Developer </h3>
-<img align="right" alt="Coding" width="350" height="500" src="IMG20230322101310.jpg">
+<img align="right" alt="Coding" width="350" height="500" src="Gitpic.jpg">
 
 <p align="left">   <img src="https://visitor-badge.laobi.icu/badge?page_id=kes18.kes18&"  /></p>
 
